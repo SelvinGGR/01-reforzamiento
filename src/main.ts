@@ -6,7 +6,9 @@ import './style.css'
 //import './bases/05-function'
 //import './bases/06-obj-desturcturing'
 //import './bases/07-array.destructuring'
-import './bases/08-imp-exp'
+//import './bases/08-imp-exp'
+//import './bases/09-promeses'
+import './bases/10-fetch-api'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
     <h1>hola mundo</h1>
